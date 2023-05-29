@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Michele Zurlo</h1>
-<h3 align="center">A passionate full stack developer from Italy</h3>
 
 - 🌱 I’m currently a Computer Science student and enrolled in the Apple Developer Academy Program.
 
