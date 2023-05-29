@@ -50,7 +50,7 @@ Try it on TestFlight: https://testflight.apple.com/join/pV5LV0Ia
 <!-- <img src="images/darkroom/DarkRoomMaster.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoomDetail.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/Darkroom-demo.gif" width="250" align="center" title="Darkroom GIF"><br><br> -->
 
 <p align="center">
-<img src="Images/Home Scene Veggie's Attack.png" width="230"  title="VEGGIE'S ATTACK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Game Scene Veggie's Attack.png" width="230" title="Veggie's">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/Darkroom-demo.gif" width="228" title="DarkRoom">
+<img src="Images/Veggie's Attack/Home Scene Veggie's Attack.png" width="300"  title="VEGGIE'S ATTACK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Veggie's Attack/Game Scene Veggie's Attack.png" width="300" title="Veggie's">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Veggie's Attack/Veggie's Attack.gif" width="300" title="Veggie's GIF">
 </p>
 
 
