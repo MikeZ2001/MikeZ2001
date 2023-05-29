@@ -64,7 +64,7 @@ Try it on TestFlight: https://testflight.apple.com/join/BKQQ2dE9
 <!-- <img src="images/dalilah/iPhone X-01MasterScreen_framed.png" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/iPhone X-02DetailScreen_framed.png" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/iPhone X-03SettingsScreen_framed.png" width="250" title="iPhone X"> -->
 
 <p align="center">
-<img src="images/dalilah/DalilahMaster.png" width="230"  title="Dalilah">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/DalilahDetail.png" width="230" title="Dalilah">
+<img src="Images/Neutone/On Boarding.png" width="230"  title="On Boarding">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Neutone/Photo.png" width="230" title="Photo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Neutone/Undertone Identiffication.png" width="230" title="undertone Identification">
 </p>
 
 
