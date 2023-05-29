@@ -4,11 +4,13 @@
 
 - 📫 How to reach me **zurlomichele@icloud.com**
 
-- 📄 Know about my experiences [resume](resumeee)
+- 📄 Know about my experiences [https://europa.eu/europass/eportfolio/screen/share/5efc95ee-88e1-437b-8104-bf3871a291d0?lang=it](https://europa.eu/europass/eportfolio/screen/share/5efc95ee-88e1-437b-8104-bf3871a291d0?lang=it)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/michele-zurlo-3668b817b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michele-zurlo-3668b817b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michele-zurlo-3668b817b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michele-zurlo-3668b817b/" height="30" width="40" /></a>
+<a href="https://instagram.com/michele_zurlo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michele_zurlo" height="30" width="40" /></a>
+<a href="https://medium.com/@michelezurlo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@michelezurlo" height="30" width="40" /></a>
 </p>
 
 ## About me
