@@ -16,6 +16,9 @@
 
 <!-- # Hello!
 *Thanks for stopping by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around. -->
+
+#MY PROJECTS
+
 # Sakura
 Sakura is an iOS word-guessing game, which I recently built as a take-home project. The specs were to build a basic 'hangman' game, and to then extend it as I saw fit. I decided to run with it and build something a bit more positive, creative, and colorful. In my app, the Sakura tree loses blooms each time you make an incorrect guess. If you guess the word correctly, the tree bursts back into bloom with a lovely animation.
 
