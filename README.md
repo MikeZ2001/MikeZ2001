@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **zurlomichele@icloud.com**
 
-- 📄 Know about my experiences [https://europa.eu/europass/eportfolio/screen/share/5efc95ee-88e1-437b-8104-bf3871a291d0?lang=it](https://europa.eu/europass/eportfolio/screen/share/5efc95ee-88e1-437b-8104-bf3871a291d0?lang=it)
+- 📄 Know about my experiences [resume](https://europa.eu/europass/eportfolio/screen/share/5efc95ee-88e1-437b-8104-bf3871a291d0?lang=it)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
