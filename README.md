@@ -11,6 +11,10 @@
 <a href="https://linkedin.com/in/michele-zurlo-3668b817b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michele-zurlo-3668b817b/" height="30" width="40" /></a>
 </p>
 
+##About me
+I am a passionate computer science student at the University of Naples Federico II and I am currently enrolled in the Apple Developer Academy program.
+The faculty of computer science gave me the opportunity to learn algorithms, data structures, DBMS, web technologies, software engineering, C, and Java language. 
+Apple Developer Academy experience gave me the opportunity to practice what I learned at the university and also to learn new things such as UI/UX Design principles, how to manage my time, work with different teams, how to adapt to different situations, develop apps in Swift Language and solve real-life problems. I try always to do my best and learn as much as possible.
 
 <!-- # Hello!
 *Thanks for stopping by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around. -->
