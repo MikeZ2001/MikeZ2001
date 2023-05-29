@@ -33,9 +33,19 @@ We started from a desk research about mental health/mental well-being and then w
 
 
 ## Veggie's Attack
+Get ready for an out-of-this-world experience with "Veggie's Attack"! Join the cosmic battle against mischievous vegetables in this thrilling space shooter. As a fearless bald man, it's up to you to save the universe from an invasion of flying veggies!
 
+Features:
+ - Engaging and addictive space shooter gameplay with a twist.
+ - Take control of a bald man in an epic battle against mischievous veggies.
+ - Unique vegetable adversaries with varied abilities and attack patterns.
+ - Explore breathtaking interstellar landscapes and vibrant space environments.
+ - Unleash devastating power-ups to turn the tide in your favor.
+ - Easy-to-learn controls that offer precise maneuverability.
 
-I'm quite happy with the final product: DarkRoom was built entirely in Swift, with no external dependencies, and the UI—which was created using Auto Layout in Interface Builder—is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns.
+Try it on the AppStore: https://apps.apple.com/it/app/veggies-attack/id6446289776?l=en
+
+Try it on TestFlight: https://testflight.apple.com/join/pV5LV0Ia
 
 <!-- <img src="images/darkroom/DarkRoomMaster.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoomDetail.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/Darkroom-demo.gif" width="250" align="center" title="Darkroom GIF"><br><br> -->
 
@@ -45,9 +55,11 @@ I'm quite happy with the final product: DarkRoom was built entirely in Swift, wi
 
 
 ## Neutone
-[Dalilah](https://cmillerco.com/dalilah)—the smart personal assistant for musicians—is my first commercial iOS product. The app makes it exceedingly easy for musicians to keep up with their learning goals. Dalilah is written entirely in Swift, contains no external dependencies, and makes extensive use of Core Data to manage data persistence. It also uses my library [CoreRestore](https://github.com/cmilr/core-restore), which allows for easy Core Data backup and restore functionality from ***within*** the app.
 
-You can read more about Dalilah by visiting the [official page](https://cmillerco.com/dalilah) on my website. If you're feeling really adventurous, you're welcome to join the beta test while you're there!
+Neutone is an app designed specifically for makeup artists and anyone looking to find the perfect foundation match for their skin undertone. This app uses a machine learning model to accurately detect the skin undertone..With Neutone, users can take a simple photo and receive as result their skin undertone. This eliminates the guesswork and frustration often associated with finding the perfect shade of makeup, saving time and money in the process.
+Whether you're a seasoned makeup artist or a beauty enthusiast, Neutone is the right tool for you.
+
+Try it on TestFlight: https://testflight.apple.com/join/BKQQ2dE9
 
 <!-- <img src="images/dalilah/iPhone X-01MasterScreen_framed.png" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/iPhone X-02DetailScreen_framed.png" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/iPhone X-03SettingsScreen_framed.png" width="250" title="iPhone X"> -->
 
