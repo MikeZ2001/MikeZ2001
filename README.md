@@ -62,7 +62,13 @@ Try it on TestFlight: https://testflight.apple.com/join/BKQQ2dE9
 
 Framework used:
 
-[![Button](https://img.shields.io/badge/Click%20me-%234CAF50?style=flat&logoWidth=20)](#)
+[![Button](https://img.shields.io/badge/Swift%20UI-F2F2F7?style=flat&logoWidth=20&color=000000)](#)
+[![Button](https://img.shields.io/badge/UI%20Kit-F2F2F7?style=flat&logoWidth=20&color=000000)](#)
+[![Button](https://img.shields.io/badge/CreateML-F2F2F7?style=flat&logoWidth=20&color=000000)](#)
+[![Button](https://img.shields.io/badge/CoreML-F2F2F7?style=flat&logoWidth=20&color=000000)](#)
+[![Button](https://img.shields.io/badge/Vision-F2F2F7?style=flat&logoWidth=20&color=000000)](#)
+[![Button](https://img.shields.io/badge/AVFoundation-F2F2F7?style=flat&logoWidth=20&color=000000)](#)
+
 
 <p align="left">
 
