@@ -62,6 +62,8 @@ Try it on TestFlight: https://testflight.apple.com/join/BKQQ2dE9
 
 Framework used: 
 <p align="left">
+<a href="" target="blank"><button type="button">Swift UI</button> </a>
+<a href="" target="blank"><button type="button">UI Kit</button> </a>
 <button type="button" >Swift UI</button> 
 <button type="button" >UIKit</button>
 <button type="button" >Create ML</button>
