@@ -61,20 +61,14 @@ Try it on TestFlight: https://testflight.apple.com/join/BKQQ2dE9
 <!-- <img src="images/dalilah/iPhone X-01MasterScreen_framed.png" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/iPhone X-02DetailScreen_framed.png" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/iPhone X-03SettingsScreen_framed.png" width="250" title="iPhone X"> -->
 
 Framework used:
-<span style="background-color: #4CAF50; color: white; padding: 4px 8px; border-radius: 4px;">Click me!</span>
 
-<a style="background-color: #4CAF50; color: white; padding: 8px 16px; text-decoration: none; display: inline-block; border-radius: 4px;" href="#">Swift UI</a>
+[![Button](https://img.shields.io/badge/Click%20me-%234CAF50?style=flat&logoWidth=20)](#)
+
+
+
 <p align="left">
-<a href="" target="blank"><button type="button">Swift UI</button> </a>
-<a href="" target="blank"><button type="button">UI Kit</button> </a>
-
-<button type="button" >UIKit</button>
-<button type="button" >Create ML</button>
-<button type="button" >Core ML</button>
-<button type="button" >Vision</button>
- 
-<button type="button" >AVFoundation</button>
  <span style="background-color: #4CAF50; color: white; padding: 4px 8px; border-radius: 4px;">Click me!</span>
+[![Button](https://img.shields.io/badge/Click%20me-%234CAF50?style=flat&logoWidth=20)](#)
 
 </p>
 
