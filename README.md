@@ -64,10 +64,8 @@ Framework used:
 
 [![Button](https://img.shields.io/badge/Click%20me-%234CAF50?style=flat&logoWidth=20)](#)
 
-
-
 <p align="left">
- <span style="background-color: #4CAF50; color: white; padding: 4px 8px; border-radius: 4px;">Click me!</span>
+
 [![Button](https://img.shields.io/badge/Click%20me-%234CAF50?style=flat&logoWidth=20)](#)
 
 </p>
