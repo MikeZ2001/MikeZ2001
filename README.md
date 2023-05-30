@@ -60,8 +60,15 @@ Try it on TestFlight: https://testflight.apple.com/join/BKQQ2dE9
 
 <!-- <img src="images/dalilah/iPhone X-01MasterScreen_framed.png" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/iPhone X-02DetailScreen_framed.png" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/iPhone X-03SettingsScreen_framed.png" width="250" title="iPhone X"> -->
 
-Framework used: <button type="button" >Swift UI</button> 
+Framework used: 
+<p align="left">
+<button type="button" >Swift UI</button> 
 <button type="button" >UIKit</button>
+<button type="button" >Create ML</button>
+<button type="button" >Core ML</button>
+<button type="button" >Vision</button>
+<button type="button" >AVFoundation</button>
+</p>
 
 <p align="center">
 <img src="Images/Neutone/On Boarding.png" width="230"  title="On Boarding">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Neutone/Photo.png" width="230" title="Photo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Neutone/3 Undertone Identification.png" width="400" title="undertone Identification">
