@@ -38,8 +38,9 @@ Framework used:
 
 
 <p align="center">
-<img src="images/sakura/sakura-play.png" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sakura/sakura-win.png" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sakura/sakura-example.gif" width="226" title="Word Guess">
+<img src="Images/Five Dots/Main View.png" width="230"  title="On Boarding">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Five Dots/EmotionsView.png" width="230" title="Photo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Five Dots/Calendar View.png" width="400" title="undertone Identification">
 </p>
+
 
 
 ## Veggie's Attack
