@@ -64,7 +64,7 @@ Framework used:
 [![Button](https://img.shields.io/badge/GameKit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 
 <p align="center">
-<img src="Images/Veggie's Attack/Home Scene Veggie's Attack.png" width="300"  title="VEGGIE'S ATTACK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Veggie's Attack/Game Scene Veggie's Attack.png" width="300" title="Veggie's">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Veggie's Attack/Veggie's Attack.gif" width="300" title="Veggie's GIF">
+<img src="Images/Veggie's Attack/Home Scene Veggie's Attack.png" width="300"  title="VEGGIE'S ATTACK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Veggie's Attack/Game Scene Veggie's Attack.png" width="300" title="Veggie's">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Veggie's Attack/Frame 1.gif" width="300" title="Veggie's GIF">
 </p>
 
 
