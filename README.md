@@ -38,7 +38,7 @@ Framework used:
 
 
 <p align="center">
-<img src="Images/Five Dots/Main View.png" width="230"  title="On Boarding">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Five Dots/EmotionsView.png" width="230" title="Photo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Five Dots/Calendar View.png" width="400" title="undertone Identification">
+<img src="Images/Five Dots/Main View.png" width="230"  title="Main View 5 Dots">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Five Dots/EmotionView.png" width="230" title="EmotionView">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Five Dots/Calendar View.png" width="230" title="CalendarView">
 </p>
 
 
