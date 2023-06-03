@@ -18,12 +18,23 @@
 
 # My projects
 
-## 5 Dots
-5 Dots is an iOS app, designed to support users become more self-aware by allowing them to record their daily thoughts and feelings, in the form of a card. Users can also view their entries thorugh a calendar feature, which displays the card for each day.
+## Five Dots
+Five Dots is an iOS app, designed to support users become more self-aware by allowing them to record their daily thoughts and feelings, in the form of a card. Users can also view their entries thorugh a calendar feature, which displays the card for each day.
 
 The app is being developed with my team composed by 2 developers, 2 designers and 1 Team Lead.
 I was one of the devoloper of the team and I also followed the design process.
 We started from a desk research about mental health/mental well-being and then with our app ,we found out a way to support people became more self aware.
+
+Framework used:
+
+[![Button](https://img.shields.io/badge/Swift%20UI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/UI%20Kit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/CoreData-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/CoreML-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/UserNotifications-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/PhotosUI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+
+
 <p align="center">
 <img src="images/sakura/sakura-play.png" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sakura/sakura-win.png" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sakura/sakura-example.gif" width="226" title="Word Guess">
 </p>
@@ -44,7 +55,14 @@ Try it on the AppStore: https://apps.apple.com/it/app/veggies-attack/id644628977
 
 Try it on TestFlight: https://testflight.apple.com/join/pV5LV0Ia
 
-<!-- <img src="images/darkroom/DarkRoomMaster.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoomDetail.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/Darkroom-demo.gif" width="250" align="center" title="Darkroom GIF"><br><br> -->
+Framework used:
+
+[![Button](https://img.shields.io/badge/Swift%20UI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/UI%20Kit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/CreateML-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/CoreML-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/Vision-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/AVFoundation-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 
 <p align="center">
 <img src="Images/Veggie's Attack/Home Scene Veggie's Attack.png" width="300"  title="VEGGIE'S ATTACK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Veggie's Attack/Game Scene Veggie's Attack.png" width="300" title="Veggie's">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Veggie's Attack/Veggie's Attack.gif" width="300" title="Veggie's GIF">
@@ -53,8 +71,9 @@ Try it on TestFlight: https://testflight.apple.com/join/pV5LV0Ia
 
 ## Neutone
 
-Neutone is an app designed specifically for makeup artists and anyone looking to find the perfect foundation match for their skin undertone. This app uses a machine learning model to accurately detect the skin undertone..With Neutone, users can take a simple photo and receive as result their skin undertone. This eliminates the guesswork and frustration often associated with finding the perfect shade of makeup, saving time and money in the process.
-Whether you're a seasoned makeup artist or a beauty enthusiast, Neutone is the right tool for you.
+Neutone is an app designed specifically for makeup artists and anyone looking to find the perfect foundation match for their skin undertone. This app uses a machine learning model to accurately detect the skin undertone.With Neutone, users can take a simple photo and receive as result their skin undertone. This eliminates the guesswork and frustration often associated with finding the perfect shade of makeup, saving time and money in the process. Whether you're a seasoned makeup artist or a beauty enthusiast, Neutone is the right tool for you.
+
+The app is being developed following the CBL process with my team composed by 3 developers , 1 designer and 1 project manager. I was one of the developer of the team and I also followed the design process. At the beginning of the project we knew 0 about the topic and this helped us to have no bias. We started from a desk research to know more about the topic and then we interviewed and direct observed make-up artist while they were doing their job. From our research we found out that their main struggle was to find the skin undertone of their client. So with our product we we want to support make-up enthusiasts and make up artist to find their skin undertone with simple steps.
 
 Try it on TestFlight: https://testflight.apple.com/join/BKQQ2dE9
 
@@ -68,13 +87,6 @@ Framework used:
 [![Button](https://img.shields.io/badge/CoreML-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 [![Button](https://img.shields.io/badge/Vision-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 [![Button](https://img.shields.io/badge/AVFoundation-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-
-
-<p align="left">
-
-[![Button](https://img.shields.io/badge/Click%20me-%234CAF50?style=flat&logoWidth=20)](#)
-
-</p>
 
 <p align="center">
 <img src="Images/Neutone/On Boarding.png" width="230"  title="On Boarding">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Neutone/Photo.png" width="230" title="Photo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Neutone/3 Undertone Identification.png" width="400" title="undertone Identification">
