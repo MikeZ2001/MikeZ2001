@@ -21,7 +21,7 @@
 ## Five Dots
 Five Dots is an iOS app, designed to support users become more self-aware by allowing them to record their daily thoughts and feelings, in the form of a card. Users can also view their entries thorugh a calendar feature, which displays the card for each day.
 
-The app is being developed with my team composed by 2 developers, 2 designers and 1 Team Lead.
+The app is being developed following the CBL process with my team composed by 2 developers, 2 designers and 1 Team Lead.
 I was one of the devoloper of the team and I also followed the design process.
 We started from a desk research about mental health/mental well-being and then with our app ,we found out a way to support people became more self aware.
 
@@ -41,15 +41,9 @@ Framework used:
 
 
 ## Veggie's Attack
-Get ready for an out-of-this-world experience with "Veggie's Attack"! Join the cosmic battle against mischievous vegetables in this thrilling space shooter. As a fearless bald man, it's up to you to save the universe from an invasion of flying veggies!
+Veggie’s Attack is an iOS (and soon IPadOS app) endless space shooter in which a bald man has to destroy all the veggies that are trying to kill him.
 
-Features:
- - Engaging and addictive space shooter gameplay with a twist.
- - Take control of a bald man in an epic battle against mischievous veggies.
- - Unique vegetable adversaries with varied abilities and attack patterns.
- - Explore breathtaking interstellar landscapes and vibrant space environments.
- - Unleash devastating power-ups to turn the tide in your favor.
- - Easy-to-learn controls that offer precise maneuverability.
+The app is being developed following the CBL process with my team composed by 3 developers , 1 designer. I was one of the developer of the team and I also followed the design process. We asked ourself , how to make a funny game and so with our creativity,  we created our product.
 
 Try it on the AppStore: https://apps.apple.com/it/app/veggies-attack/id6446289776?l=en
 
