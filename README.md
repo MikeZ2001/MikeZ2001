@@ -25,6 +25,8 @@ The app is being developed following the CBL process with my team composed by 2 
 I was one of the devoloper of the team and I also followed the design process.
 We started from a desk research about mental health/mental well-being and then with our app ,we found out a way to support people became more self aware.
 
+Try it on TestFlight: https://testflight.apple.com/join/SmXWt19f
+
 Framework used:
 
 [![Button](https://img.shields.io/badge/Swift%20UI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
