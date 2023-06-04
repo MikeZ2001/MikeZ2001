@@ -2,8 +2,8 @@
 
 # About me
 I am a passionate computer science student at the University of Naples Federico II and I am currently enrolled in the Apple Developer Academy program.
-The faculty of computer science gave me the opportunity to learn algorithms, data structures, DBMS, web technologies, software engineering, C, and Java language. 
-Apple Developer Academy experience gave me the opportunity to practice what I learned at the university and also to learn new things such as UI/UX Design principles, how to manage my time, work with different teams, how to adapt to different situations, develop apps in Swift Language and solve real-life problems. I try always to do my best and learn as much as possible.
+
+Computer science faculty allowed me to learn algorithms, data structures, DBMS, web technologies, software engineering, C, and Java language. Apple Developer Academy experience allowed me to practice what I learned at the university and also to learn new things such as UI/UX Design principles, how to manage my time, work with different teams, how to adapt to different situations, develop apps in Swift Language and solve real-life problems. I try always to do my best and learn as much as possible.
 
 - 📫 How to reach me **zurlomichele@icloud.com**
 
@@ -22,11 +22,11 @@ Apple Developer Academy experience gave me the opportunity to practice what I le
 # My projects
 
 ## Five Dots - iOS App
-Five Dots is an iOS app, designed to support users become more self-aware by allowing them to record their daily thoughts and feelings, in the form of a card. Users can also view their entries thorugh a calendar feature, which displays the card for each day.
+Five Dots is an iOS app, designed to support users become more self-aware by allowing them to record their daily thoughts and feelings, in the form of a card. Users can also view their entries through a calendar feature, which displays the card for each day.
 
-The app is being developed following the CBL process with my team composed by 2 developers, 2 designers and 1 Team Lead.
-I was one of the devoloper of the team and I also followed the design process.
-We started from a desk research about mental health/mental well-being and then with our app ,we found out a way to support people became more self aware.
+The app is being developed following the CBL process with my team composed of 2 developers, 2 designers, and 1 Team Lead. I was one of the developers of the team and I also followed the design process. We started with a desk research about mental well-being and then with our app, we found out a way to support people to become more self-aware.
+
+The framework used: Swift UI, UIKit, CoreData, UserNotifications, PhotosUI
 
 Try it on TestFlight: https://testflight.apple.com/join/SmXWt19f
 
@@ -47,9 +47,11 @@ Framework used:
 
 
 ## Veggie's Attack - iOS App
-Veggie’s Attack is an iOS (and soon IPadOS app) endless space shooter in which a bald man has to destroy all the veggies that are trying to kill him.
+Veggie’s Attack is an iOS (and soon IPadOS app) endless space shooter in which a bald man must destroy all the veggies trying to kill him.
 
-The app is being developed following the CBL process with my team composed by 3 developers , 1 designer. I was one of the developer of the team and I also followed the design process. We asked ourself , how to make a funny game and so with our creativity,  we created our product.
+The app is being developed with my team composed of 3 developers, and 1 designer. I was one of the developers of the team and I also followed the design process. We asked ourselves, how to make a fun game and so with our creativity,  we created our product.
+
+Framework used:  UIKit, SpriteKit , GameKit, GameplayKit, AVFoundation 
 
 Try it on the AppStore: https://apps.apple.com/it/app/veggies-attack/id6446289776?l=en
 
@@ -70,9 +72,11 @@ Framework used:
 
 ## Neutone - iOS App
 
-Neutone is an iOS app designed specifically for makeup artists and anyone looking to find the perfect foundation match for their skin undertone. This app uses a machine learning model to accurately detect the skin undertone.With Neutone, users can take a simple photo and receive as result their skin undertone. This eliminates the guesswork and frustration often associated with finding the perfect shade of makeup, saving time and money in the process. Whether you're a seasoned makeup artist or a beauty enthusiast, Neutone is the right tool for you.
+Neutone is an app designed specifically for makeup artists and anyone looking to find the perfect foundation match for their skin undertone. This app uses a machine learning model to accurately detect the skin undertone. With Neutone, users can take a simple photo and receive as a result their skin undertone. This eliminates the guesswork and frustration often associated with finding the perfect shade of makeup, saving time and money in the process. Whether you’re a seasoned makeup artist or a beauty enthusiast, Neutone is the right tool for you.
 
-The app is being developed following the CBL process with my team composed by 3 developers , 1 designer and 1 project manager. I was one of the developer of the team and I also followed the design process. At the beginning of the project we knew 0 about the topic and this helped us to have no bias. We started from a desk research to know more about the topic and then we interviewed and direct observed make-up artist while they were doing their job. From our research we found out that their main struggle was to find the skin undertone of their client. So with our product we we want to support make-up enthusiasts and make up artist to find their skin undertone with simple steps.
+The app is being developed following the CBL process with my team composed of 3 developers, 1 designer, and 1 project manager. I was one of the developers of the team and I also followed the design process. At the beginning of the project, we knew 0 about the topic, which helped us have no bias. We started with a desk research to learn more about the topic and then interviewed and directly observed make-up artists while they were doing their job. From our research, we found out that their main struggle was to find the skin undertone of their client. So with our product, we want to support make-up enthusiasts and makeup artist to find their skin undertone with simple steps.
+
+The framework used : Swift UI, UIKit , AVFoundation , Create ML, Core ML, Vision
 
 Try it on TestFlight: https://testflight.apple.com/join/BKQQ2dE9
 
