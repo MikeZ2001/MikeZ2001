@@ -24,7 +24,7 @@ Computer science faculty allowed me to learn algorithms, data structures, DBMS, 
 ## Five Dots - iOS App
 Five Dots is an iOS app, designed to support users become more self-aware by allowing them to record their daily thoughts and feelings, in the form of a card. Users can also view their entries through a calendar feature, which displays the card for each day.
 
-The app is being developed following the CBL process with my team composed of 2 developers, 2 designers, and 1 Team Lead. I was one of the developers of the team and I also followed the design process. We started with a desk research about mental well-being and then with our app, we found out a way to support people to become more self-aware.
+The app is being developed following the CBL process with my team composed of 2 developers, 2 designers, and 1 Team Lead. I was one of the developers of the team and I also followed the design process. We started with a desk research about mental well-being and then with our app, we found a way to support people to become more self-aware.
 
 The framework used: Swift UI, UIKit, CoreData, UserNotifications, PhotosUI
 
@@ -51,7 +51,7 @@ Veggie’s Attack is an iOS (and soon IPadOS app) endless space shooter in which
 
 The app is being developed with my team composed of 3 developers, and 1 designer. I was one of the developers of the team and I also followed the design process. We asked ourselves, how to make a fun game and so with our creativity,  we created our product.
 
-Framework used:  UIKit, SpriteKit , GameKit, GameplayKit, AVFoundation 
+The Framework used:  UIKit, SpriteKit , GameKit, GameplayKit, AVFoundation 
 
 Try it on the AppStore: https://apps.apple.com/it/app/veggies-attack/id6446289776?l=en
 
