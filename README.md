@@ -87,24 +87,31 @@ Framework used:
 </p>
 
 
-## iPlanner - Progetto universitario
-Questo progetto consiste nello sviluppo di un sistema informativo che aiuti l'azienda nella gestione dei propri progetti. Il sistema è composto da una base di dati relazionale e un applicativo Java con interfaccia grafica utente (GUI) in Swing.
+## iPlanner - University project
+This project consists of the development of an information system to help the company manage its projects. The system consists of a relational database and a Java application with a graphical user interface (GUI) in Swing.
 
-Le richieste degli stakeholder sono:
+These are the requests from the stakeholders:
+- Keep track of participants in projects, identifying the role of each of them (for each project there will be only one project manager).
+- Associate each project with a type from the following: "Basic Research," "Industrial Research," "Experimental Research," "Experimental Development," and one or more areas such as Economics, Medicine, etc.
+- Hold meetings physically in meeting rooms or telematically on a video conferencing platform.
+- Keep track of project and meeting attendance for the purpose of individual participant evaluation.
+- Select participants based on research criteria such as the participant's average salary and company rating, as well as the type of projects he or she took part in.
+- Assign each participant a list of skills.
+- Select participants based on their skills when creating a new project.
+- Record a participant's skills and, if not in the database, create a new one.
+For more information read the documentation.
 
-- Tenere traccia dei partecipanti ai progetti, identificando il ruolo di ognuno di essi (per ogni progetto ci sarà solo un project manager).
-- Associare ad ogni progetto una tipologia tra le seguenti: "Ricerca di base", "Ricerca Industriale", "Ricerca sperimentale", "Sviluppo Sperimentale" e uno o più ambiti come Economia, Medicina, etc.
-- Organizzare meeting fisicamente in sale riunioni o telematicamente su una piattaforma di videoconferenza.
-- Tenere traccia delle partecipazioni ai progetti e ai meeting, ai fini della valutazione del singolo partecipante.
-- Selezionare i partecipanti in base a criteri di ricerca come il salario medio e la valutazione aziendale del partecipante, oltre alla tipologia di progetti cui ha preso parte.
-- Assegnare a ogni partecipante una lista di skill.
-- Selezionare i partecipanti in base alle loro skill durante la creazione di un nuovo progetto.
-- Registrare le skill di un partecipante e, se non presenti nel database, crearne una nuova.
-Per ulteriori informazioni leggere la documentazione.
+Technologies used:
+
+[![Button](https://img.shields.io/badge/Java-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/JDBC-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/Java%20Swing-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 
 GitHub Link: https://github.com/UniNaDev/OOBD2021-PlanningAziendale
 
-## Ratatouille 23 - Progetto universitario
+## Ratatouille 23 - University project
+
+Ratatouille23 is a system aimed at supporting the management and operation of restaurant businesses. The system consists of a performant and reliable application through which users can enjoy the system's functionality in an intuitive, quick and pleasant way.
 
 These are the requests from the stakeholders: 
 - An administrator can create user accounts for their employees (both dining room staff, kitchen staff, and supervisors). Upon first login, each user must reset the password provided by the administrator and choose a different password.
@@ -123,6 +130,7 @@ Technologies used:
 [![Button](https://img.shields.io/badge/AWS%20EC2-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 [![Button](https://img.shields.io/badge/AWS%20Amplify-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 [![Button](https://img.shields.io/badge/SpringBoot-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/OpenFoodFacts-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 
 
 
