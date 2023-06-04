@@ -18,7 +18,7 @@
 
 # My projects
 
-## Five Dots
+## Five Dots - iOS App
 Five Dots is an iOS app, designed to support users become more self-aware by allowing them to record their daily thoughts and feelings, in the form of a card. Users can also view their entries thorugh a calendar feature, which displays the card for each day.
 
 The app is being developed following the CBL process with my team composed by 2 developers, 2 designers and 1 Team Lead.
@@ -43,7 +43,7 @@ Framework used:
 
 
 
-## Veggie's Attack
+## Veggie's Attack - iOS App
 Veggie’s Attack is an iOS (and soon IPadOS app) endless space shooter in which a bald man has to destroy all the veggies that are trying to kill him.
 
 The app is being developed following the CBL process with my team composed by 3 developers , 1 designer. I was one of the developer of the team and I also followed the design process. We asked ourself , how to make a funny game and so with our creativity,  we created our product.
@@ -65,9 +65,9 @@ Framework used:
 </p>
 
 
-## Neutone
+## Neutone - iOS App
 
-Neutone is an app designed specifically for makeup artists and anyone looking to find the perfect foundation match for their skin undertone. This app uses a machine learning model to accurately detect the skin undertone.With Neutone, users can take a simple photo and receive as result their skin undertone. This eliminates the guesswork and frustration often associated with finding the perfect shade of makeup, saving time and money in the process. Whether you're a seasoned makeup artist or a beauty enthusiast, Neutone is the right tool for you.
+Neutone is an iOS app designed specifically for makeup artists and anyone looking to find the perfect foundation match for their skin undertone. This app uses a machine learning model to accurately detect the skin undertone.With Neutone, users can take a simple photo and receive as result their skin undertone. This eliminates the guesswork and frustration often associated with finding the perfect shade of makeup, saving time and money in the process. Whether you're a seasoned makeup artist or a beauty enthusiast, Neutone is the right tool for you.
 
 The app is being developed following the CBL process with my team composed by 3 developers , 1 designer and 1 project manager. I was one of the developer of the team and I also followed the design process. At the beginning of the project we knew 0 about the topic and this helped us to have no bias. We started from a desk research to know more about the topic and then we interviewed and direct observed make-up artist while they were doing their job. From our research we found out that their main struggle was to find the skin undertone of their client. So with our product we we want to support make-up enthusiasts and make up artist to find their skin undertone with simple steps.
 
@@ -87,7 +87,7 @@ Framework used:
 </p>
 
 
-## iPlanner - University project
+## iPlanner - University project - Java App
 This project consists of the development of an information system to help the company manage its projects. The system consists of a relational database and a Java application with a graphical user interface (GUI) in Swing.
 
 These are the requests from the stakeholders:
@@ -109,7 +109,7 @@ Technologies used:
 
 GitHub Link: https://github.com/UniNaDev/OOBD2021-PlanningAziendale
 
-## Ratatouille 23 - University project
+## Ratatouille 23 - University project - Android Mobile and Java Desktop App
 
 Ratatouille23 is a system aimed at supporting the management and operation of restaurant businesses. The system consists of a performant and reliable application through which users can enjoy the system's functionality in an intuitive, quick and pleasant way.
 
