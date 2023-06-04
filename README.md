@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michele Zurlo</h1>
 
-- 🌱 I’m currently a Computer Science student and enrolled in the Apple Developer Academy Program.
+<h3 align="left">About me:</h3>
+<p align="left">
+I am a passionate computer science student at the University of Naples Federico II and I am currently enrolled in the Apple Developer Academy program.
+The faculty of computer science gave me the opportunity to learn algorithms, data structures, DBMS, web technologies, software engineering, C, and Java language. 
+Apple Developer Academy experience gave me the opportunity to practice what I learned at the university and also to learn new things such as UI/UX Design principles, how to manage my time, work with different teams, how to adapt to different situations, develop apps in Swift Language and solve real-life problems. I try always to do my best and learn as much as possible.
+  </p>
 
 - 📫 How to reach me **zurlomichele@icloud.com**
 
