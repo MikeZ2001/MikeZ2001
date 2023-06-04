@@ -7,7 +7,7 @@ Apple Developer Academy experience gave me the opportunity to practice what I le
 
 - 📫 How to reach me **zurlomichele@icloud.com**
 
-- 📄 Know about my experiences [resume](https://europa.eu/europass/eportfolio/screen/share/5efc95ee-88e1-437b-8104-bf3871a291d0?lang=it)
+- 📄 Know about my experiences [resume](https://europa.eu/europass/eportfolio/screen/share/documents/ebeedd5c-feae-4db8-ba55-dd7c955f758f?lang=en)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
