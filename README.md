@@ -26,11 +26,9 @@ Five Dots is an iOS app, designed to support users become more self-aware by all
 
 The app is being developed following the CBL process with my team composed of 2 developers, 2 designers, and 1 Team Lead. I was one of the developers of the team and I also followed the design process. We started with a desk research about mental well-being and then with our app, we found a way to support people to become more self-aware.
 
-The framework used: Swift UI, UIKit, CoreData, UserNotifications, PhotosUI
-
 Try it on TestFlight: https://testflight.apple.com/join/SmXWt19f
 
-Framework used:
+The Framework used:
 
 [![Button](https://img.shields.io/badge/Swift%20UI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 [![Button](https://img.shields.io/badge/UI%20Kit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
@@ -45,19 +43,16 @@ Framework used:
 </p>
 
 
-
 ## Veggie's Attack - iOS App
 Veggie’s Attack is an iOS (and soon IPadOS app) endless space shooter in which a bald man must destroy all the veggies trying to kill him.
 
 The app is being developed with my team composed of 3 developers, and 1 designer. I was one of the developers of the team and I also followed the design process. We asked ourselves, how to make a fun game and so with our creativity,  we created our product.
 
-The Framework used:  UIKit, SpriteKit , GameKit, GameplayKit, AVFoundation 
-
 Try it on the AppStore: https://apps.apple.com/it/app/veggies-attack/id6446289776?l=en
 
 Try it on TestFlight: https://testflight.apple.com/join/pV5LV0Ia
 
-Framework used:
+The Framework used:
 
 [![Button](https://img.shields.io/badge/UI%20Kit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 [![Button](https://img.shields.io/badge/SpriteKit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
@@ -76,11 +71,9 @@ Neutone is an app designed specifically for makeup artists and anyone looking to
 
 The app is being developed following the CBL process with my team composed of 3 developers, 1 designer, and 1 project manager. I was one of the developers of the team and I also followed the design process. At the beginning of the project, we knew 0 about the topic, which helped us have no bias. We started with a desk research to learn more about the topic and then interviewed and directly observed make-up artists while they were doing their job. From our research, we found out that their main struggle was to find the skin undertone of their client. So with our product, we want to support make-up enthusiasts and makeup artist to find their skin undertone with simple steps.
 
-The framework used : Swift UI, UIKit , AVFoundation , Create ML, Core ML, Vision
-
 Try it on TestFlight: https://testflight.apple.com/join/BKQQ2dE9
 
-Framework used:
+The Framework used:
 
 [![Button](https://img.shields.io/badge/Swift%20UI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 [![Button](https://img.shields.io/badge/UI%20Kit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
@@ -101,7 +94,7 @@ These are the requests from the stakeholders:
 - Keep track of participants in projects, identifying the role of each of them (for each project there will be only one project manager).
 - Associate each project with a type from the following: "Basic Research," "Industrial Research," "Experimental Research," "Experimental Development," and one or more areas such as Economics, Medicine, etc.
 - Hold meetings physically in meeting rooms or telematically on a video conferencing platform.
-- Keep track of project and meeting attendance for the purpose of individual participant evaluation.
+- Keep track of the project and meeting attendance for the purpose of individual participant evaluation.
 - Select participants based on research criteria such as the participant's average salary and company rating, as well as the type of projects he or she took part in.
 - Assign each participant a list of skills.
 - Select participants based on their skills when creating a new project.
@@ -129,6 +122,8 @@ These are the requests from the stakeholders:
 - An administrator can view detailed statistics on the productivity of the kitchen staff. In particular, within a customizable time frame, it should be possible to view at least the number of orders each kitchen staff member has fulfilled. The presence of interactive graphs is appreciated.
 
 In particular, the functionalities reserved for waiter and kitchen staff will be accessed on tablets, while the functionalities intended for administrators and supervisors will primarily be accessed through notebooks or PCs. Since the hardware (tablets and notebooks) has not been purchased yet, it can be assumed that both devices have an operating system of the contractors' choice (e.g., Linux, Windows, Android, iOS, etc.).
+
+Project status: In progress
 
 Technologies used:
 
