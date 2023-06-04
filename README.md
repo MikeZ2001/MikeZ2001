@@ -87,6 +87,45 @@ Framework used:
 </p>
 
 
+## iPlanner - Progetto universitario
+Questo progetto consiste nello sviluppo di un sistema informativo che aiuti l'azienda nella gestione dei propri progetti. Il sistema è composto da una base di dati relazionale e un applicativo Java con interfaccia grafica utente (GUI) in Swing.
+
+Le richieste degli stakeholder sono:
+
+- Tenere traccia dei partecipanti ai progetti, identificando il ruolo di ognuno di essi (per ogni progetto ci sarà solo un project manager).
+- Associare ad ogni progetto una tipologia tra le seguenti: "Ricerca di base", "Ricerca Industriale", "Ricerca sperimentale", "Sviluppo Sperimentale" e uno o più ambiti come Economia, Medicina, etc.
+- Organizzare meeting fisicamente in sale riunioni o telematicamente su una piattaforma di videoconferenza.
+- Tenere traccia delle partecipazioni ai progetti e ai meeting, ai fini della valutazione del singolo partecipante.
+- Selezionare i partecipanti in base a criteri di ricerca come il salario medio e la valutazione aziendale del partecipante, oltre alla tipologia di progetti cui ha preso parte.
+- Assegnare a ogni partecipante una lista di skill.
+- Selezionare i partecipanti in base alle loro skill durante la creazione di un nuovo progetto.
+- Registrare le skill di un partecipante e, se non presenti nel database, crearne una nuova.
+Per ulteriori informazioni leggere la documentazione.
+
+GitHub Link: https://github.com/UniNaDev/OOBD2021-PlanningAziendale
+
+## Ratatouille 23 - Progetto universitario
+
+These are the requests from the stakeholders: 
+- An administrator can create user accounts for their employees (both dining room staff, kitchen staff, and supervisors). Upon first login, each user must reset the password provided by the administrator and choose a different password.
+- An administrator (or a supervisor) can customize the restaurant's menu. Specifically, the user can create and/or delete items from the menu. Each item is characterized by a name, a cost, a description, and a list of common allergens. Furthermore, it is possible to organize menu items into customizable categories (e.g., first courses, desserts, seafood dishes, beverages, etc.) and define the order in which the items appear on the menu. During data entry, autocomplete is required for certain products (e.g., beverages or prepackaged items) using open data such as those available at https://it.openfoodfacts.org/data.
+- A waiter can record orders by indicating the table number and the desired menu items.
+- A kitchen staff member can view orders in real-time, proceed with preparing the dishes, and keep track of fulfilled orders.
+- A supervisor can view the bill for each table in a PDF format at any given moment. Additionally, when customers sitting at a particular table leave, the supervisor can close the bill and view the final version to present to the customer.
+- An administrator can view detailed statistics on the productivity of the kitchen staff. In particular, within a customizable time frame, it should be possible to view at least the number of orders each kitchen staff member has fulfilled. The presence of interactive graphs is appreciated.
+
+In particular, the functionalities reserved for waiter and kitchen staff will be accessed on tablets, while the functionalities intended for administrators and supervisors will primarily be accessed through notebooks or PCs. Since the hardware (tablets and notebooks) has not been purchased yet, it can be assumed that both devices have an operating system of the contractors' choice (e.g., Linux, Windows, Android, iOS, etc.).
+
+Technologies used:
+
+[![Button](https://img.shields.io/badge/Java-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/AWS%20RDS-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/AWS%20EC2-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/AWS%20Amplify-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/SpringBoot-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+
+
+
 <h3 align="left">Languages and Tools that I used:</h3>
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
