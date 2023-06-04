@@ -131,6 +131,7 @@ Technologies used:
 [![Button](https://img.shields.io/badge/AWS%20Amplify-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 [![Button](https://img.shields.io/badge/SpringBoot-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 [![Button](https://img.shields.io/badge/OpenFoodFacts-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/JavaFX-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 
 
 
