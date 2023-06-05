@@ -7,7 +7,7 @@ Computer science faculty allowed me to learn algorithms, data structures, DBMS, 
 
 - 📫 How to reach me **zurlomichele@icloud.com**
 
-- 📄 Know about my experiences [resume](https://europa.eu/europass/eportfolio/screen/share/documents/ebeedd5c-feae-4db8-ba55-dd7c955f758f?lang=en)
+- 📄 Know about my experiences [resume](https://europa.eu/europass/eportfolio/screen/share/385f5362-cd88-40f9-b7f2-3a207a076c46?lang=it)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
