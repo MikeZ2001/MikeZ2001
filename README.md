@@ -92,7 +92,8 @@ MindLoop is an innovative application that helps you stimulate your creativity a
 
 The app is being developed following the CBL process with my team composed of 3 developers, 2 designer, and 1 project manager. I was one of the developers of the team and I also followed the design process.
 
-Everything started from an our need, we were stucked in finding an idea for the app , so we asked ourselves , why we don’t make an app that supports the brainstorming. We wanted to make something new , so we started creating our own way to do brainstorming and then we tested it with different focus group. Test the technique with the group let us understand that there was a problem during brainstorming sessions , people followed the strongest personality of the group (this means that ideas of other person were not considered) and that have a time constraint helps people to be creative .\n So we introduced in our app anonimity,  a timer for each phase of brainstorming and a new way to do brainstorming which consists in simple steps: 
+Everything started from an our need, we were stucked in finding an idea for the app , so we asked ourselves , why we don’t make an app that supports the brainstorming. We wanted to make something new , so we started creating our own way to do brainstorming and then we tested it with different focus group. Test the technique with the group let us understand that there was a problem during brainstorming sessions , people followed the strongest personality of the group (this means that ideas of other person were not considered) and that have a time constraint helps people to be creative.
+So we introduced in our app anonimity,  a timer for each phase of brainstorming and a new way to do brainstorming which consists in simple steps: 
 - Choose your topic, 
 - Write max 10 words linked to that topic ,
 - Write 2 ideas linked to that topic and words
