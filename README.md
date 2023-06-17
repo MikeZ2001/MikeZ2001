@@ -95,6 +95,7 @@ The app is being developed following the CBL process with my team composed of 3 
 <p align="center">
 <img src="Images/MindLoop/OnboardingView.png" width="230"  title="Onboarding">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/MindLoop/RoomSettingsView.png" width="230" title="Room Settings">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/MindLoop/TopicSelectionView.png" width="230" title="Topic Selection">
 </p>
+
 ## iPlanner - University project - Java App
 This project consists of the development of an information system to help the company manage its projects. The system consists of a relational database and a Java application with a graphical user interface (GUI) in Swing.
 
