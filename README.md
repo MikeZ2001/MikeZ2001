@@ -90,17 +90,17 @@ The Framework used:
 
 MindLoop is an innovative application that helps you stimulate your creativity and generate brilliant ideas through the process of brainstorming. With MindLoop, you can free your mind and capture all your ideas on virtual cards, creating a continuous flow of thoughts and concepts without limits.
 
-The app is being developed following the CBL process with my team composed of 3 developers, 2 designer, and 1 project manager. I was one of the developers of the team and I also followed the design process.
+The app is being developed following the CBL process with my team of 3 developers, 2 designers, and 1 project manager. I was one of the developers of the team and I also followed the design process.
 
-Everything started from an our need, we were stucked in finding an idea for the app , so we asked ourselves , why we don’t make an app that supports the brainstorming. We wanted to make something new , so we started creating our own way to do brainstorming and then we tested it with different focus group. Test the technique with the group let us understand that there was a problem during brainstorming sessions , people followed the strongest personality of the group (this means that ideas of other person were not considered) and that have a time constraint helps people to be creative.
-
-So we introduced in our app anonimity,  a timer for each phase of brainstorming and a new way to do brainstorming which consists in simple steps: 
-- Choose your topic, 
-- Write max 10 words linked to that topic ,
+Everything comes from our needs, we were stuck in finding an idea for the app, so we asked ourselves, why we don’t make an app that supports brainstorming. We wanted to make something new, so we started creating our own way to do brainstorming and then we tested it with different focus groups. Testing the technique with the group let us understand that there was a problem during brainstorming sessions, people followed the strongest personality of the group (this means that the ideas of other people were not considered) and that having a time constraint helps people to be creative.
+So we introduced in our app anonymity,  a timer for each phase of brainstorming, and a new way to do brainstorming which consists of 4 simple steps: 
+- Choose your topic
+- Write max 10 words linked to that topic
 - Write 2 ideas linked to that topic and words
-- Blend the two ideas in a third idea.
+- Blend the two ideas into a third idea.
 
-If you are happy with your result , you can share your card in whatever way you prefer or you can restart the session.
+If you are happy with your result, you can share your card however you prefer or restart the session.
+
 
 Try it on the AppStore: https://apps.apple.com/app/mindloop/id6449718568 
 
