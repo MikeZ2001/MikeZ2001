@@ -86,7 +86,15 @@ The Framework used:
 <img src="Images/Neutone/On Boarding.png" width="230"  title="On Boarding">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Neutone/Photo.png" width="230" title="Photo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Neutone/3 Undertone Identification.png" width="400" title="undertone Identification">
 </p>
 
+## MindLoop - iOS and IPadOS App
 
+MindLoop is an innovative application that helps you stimulate your creativity and generate brilliant ideas through the process of brainstorming. With MindLoop, you can free your mind and capture all your ideas on virtual cards, creating a continuous flow of thoughts and concepts without limits
+
+The app is being developed following the CBL process with my team composed of 3 developers, 1 designer, and 1 project manager. I was one of the developers of the team and I also followed the design process. 
+
+<p align="center">
+<img src="Images/MindLoop/OnboardingView.png" width="230"  title="Onboarding">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/MindLoop/RoomSettingsView.png" width="230" title="Room Settings">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/MindLoop/TopicSelectionView.png" width="230" title="Topic Selection">
+</p>
 ## iPlanner - University project - Java App
 This project consists of the development of an information system to help the company manage its projects. The system consists of a relational database and a Java application with a graphical user interface (GUI) in Swing.
 
