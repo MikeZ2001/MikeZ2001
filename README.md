@@ -88,9 +88,17 @@ The Framework used:
 
 ## MindLoop - iOS and IPadOS App
 
-MindLoop is an innovative application that helps you stimulate your creativity and generate brilliant ideas through the process of brainstorming. With MindLoop, you can free your mind and capture all your ideas on virtual cards, creating a continuous flow of thoughts and concepts without limits
+MindLoop is an innovative application that helps you stimulate your creativity and generate brilliant ideas through the process of brainstorming. With MindLoop, you can free your mind and capture all your ideas on virtual cards, creating a continuous flow of thoughts and concepts without limits.
 
-The app is being developed following the CBL process with my team composed of 3 developers, 1 designer, and 1 project manager. I was one of the developers of the team and I also followed the design process. 
+The app is being developed following the CBL process with my team composed of 3 developers, 1 designer, and 1 project manager. I was one of the developers of the team and I also followed the design process.
+
+The Framework used:
+
+[![Button](https://img.shields.io/badge/Swift%20UI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/UI%20Kit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/Lottie-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/DeckKit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/Combine-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 
 <p align="center">
 <img src="Images/MindLoop/OnboardingView.png" width="230"  title="Onboarding">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/MindLoop/RoomSettingsView.png" width="230" title="Room Settings">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/MindLoop/TopicSelectionView.png" width="230" title="Topic Selection">
