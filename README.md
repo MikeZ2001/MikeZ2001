@@ -90,7 +90,7 @@ The Framework used:
 
 MindLoop is an innovative application that helps you stimulate your creativity and generate brilliant ideas through the process of brainstorming. With MindLoop, you can free your mind and capture all your ideas on virtual cards, creating a continuous flow of thoughts and concepts without limits.
 
-The app is being developed following the CBL process with my team composed of 3 developers, 1 designer, and 1 project manager. I was one of the developers of the team and I also followed the design process.
+The app is being developed following the CBL process with my team composed of 3 developers, 2 designer, and 1 project manager. I was one of the developers of the team and I also followed the design process.
 
 Try it on the AppStore: https://apps.apple.com/app/mindloop/id6449718568 
 
