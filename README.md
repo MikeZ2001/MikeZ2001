@@ -92,6 +92,8 @@ MindLoop is an innovative application that helps you stimulate your creativity a
 
 The app is being developed following the CBL process with my team composed of 3 developers, 1 designer, and 1 project manager. I was one of the developers of the team and I also followed the design process.
 
+Try it on the AppStore: https://apps.apple.com/app/mindloop/id6449718568 
+
 The Framework used:
 
 [![Button](https://img.shields.io/badge/Swift%20UI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
