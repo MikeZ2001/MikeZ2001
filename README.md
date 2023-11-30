@@ -73,6 +73,8 @@ The app is being developed following the CBL process with my team composed of 3 
 
 Try it on TestFlight: https://testflight.apple.com/join/BKQQ2dE9
 
+Try it on the AppStore: https://apps.apple.com/it/app/neutone/id6445848829?l=en
+
 The Framework used:
 
 [![Button](https://img.shields.io/badge/Swift%20UI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
