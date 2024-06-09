@@ -50,8 +50,6 @@ The app is being developed with my team composed of 3 developers, and 1 designer
 
 Try it on the AppStore: https://apps.apple.com/it/app/veggies-attack/id6446289776?l=en
 
-Try it on TestFlight: https://testflight.apple.com/join/pV5LV0Ia
-
 The Framework used:
 
 [![Button](https://img.shields.io/badge/UI%20Kit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
@@ -70,8 +68,6 @@ The Framework used:
 Neutone is an app designed specifically for makeup artists and anyone looking to find the perfect foundation match for their skin undertone. This app uses a machine learning model to accurately detect the skin undertone. With Neutone, users can take a simple photo and receive as a result their skin undertone. This eliminates the guesswork and frustration often associated with finding the perfect shade of makeup, saving time and money in the process. Whether you’re a seasoned makeup artist or a beauty enthusiast, Neutone is the right tool for you.
 
 The app is being developed following the CBL process with my team composed of 3 developers, 1 designer, and 1 project manager. I was one of the developers of the team and I also followed the design process. At the beginning of the project, we knew 0 about the topic, which helped us have no bias. We started with a desk research to learn more about the topic and then interviewed and directly observed make-up artists while they were doing their job. From our research, we found out that their main struggle was to find the skin undertone of their client. So with our product, we want to support make-up enthusiasts and makeup artist to find their skin undertone with simple steps.
-
-Try it on TestFlight: https://testflight.apple.com/join/BKQQ2dE9
 
 Try it on the AppStore: https://apps.apple.com/it/app/neutone/id6445848829?l=en
 
@@ -102,7 +98,6 @@ So we introduced in our app anonymity,  a timer for each phase of brainstorming,
 - Blend the two ideas into a third idea.
 
 If you are happy with your result, you can share your card however you prefer or restart the session.
-
 
 Try it on the AppStore: https://apps.apple.com/app/mindloop/id6449718568 
 
