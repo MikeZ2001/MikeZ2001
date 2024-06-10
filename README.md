@@ -128,7 +128,7 @@ The Framework used:
 [![Button](https://img.shields.io/badge/SDWebImageSwiftUI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 
 <p align="center">
-<img src="Images/Miva/Miva1.png" width="230"  title="Miva1"><img src="Images/Miva/Miva2.png" width="230" title="Miva2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Miva/Miva3.png" width="230" title="Miva3"><img src="Images/Miva/Miva4.png" width="230" title="Miva4"><img src="Images/Miva/Miva5.png" width="230" title="Miva5">
+<img src="Images/Miva/Miva1.png" width="220"  title="Miva1"><img src="Images/Miva/Miva2.png" width="220" title="Miva2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Miva/Miva3.png" width="220" title="Miva3"><img src="Images/Miva/Miva4.png" width="220" title="Miva4"><img src="Images/Miva/Miva5.png" width="220" title="Miva5">
 </p>
 
 ## iPlanner - University project - Java App
