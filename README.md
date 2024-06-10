@@ -127,6 +127,10 @@ The Framework used:
 [![Button](https://img.shields.io/badge/HealthKit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 [![Button](https://img.shields.io/badge/SDWebImageSwiftUI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 
+<p align="center">
+<img src="Images/Miva/Miva1.png" width="230"  title="Miva1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Miva/Miva2.png" width="230" title="Miva2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Miva/Miva3.png" width="230" title="Miva3">
+</p>
+
 ## iPlanner - University project - Java App
 This project consists of the development of an information system to help the company manage its projects. The system consists of a relational database and a Java application with a graphical user interface (GUI) in Swing.
 
