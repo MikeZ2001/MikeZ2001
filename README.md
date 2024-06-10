@@ -117,7 +117,7 @@ The Framework used:
 
 Miva is a Watch OS that helps you calm your mind and body, relieve muscle tension, and reduce stress and anxiety. Miva uses the Digital Crown to start and stop your chosen vibration pattern with one simple, intuitive interaction. Miva intelligently disables your screen while the vibration is active, to let you dive into your sensations and feel the moment.
 
-The app is being developed following the CBL process with my team of 1 developer, 2 designers, and 1 project manager. I was the only developer of the team and I also followed the design process.
+The app is being developed with my team of 1 developer, 2 designers, and 1 project manager. I was the only developer of the team and I also followed the design process.
 
 Try it on the AppStore: https://apps.apple.com/it/app/miva/id6473791031?l=en-GB
 
