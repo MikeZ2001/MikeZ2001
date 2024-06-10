@@ -167,8 +167,6 @@ These are the requests from the stakeholders:
 
 In particular, the functionalities reserved for waiter and kitchen staff will be accessed on tablets, while the functionalities intended for administrators and supervisors will primarily be accessed through notebooks or PCs. Since the hardware (tablets and notebooks) has not been purchased yet, it can be assumed that both devices have an operating system of the contractors' choice (e.g., Linux, Windows, Android, iOS, etc.).
 
-Project status: In progress
-
 Technologies used:
 
 [![Button](https://img.shields.io/badge/Java-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
