@@ -113,6 +113,20 @@ The Framework used:
 <img src="Images/MindLoop/OnboardingView.png" width="230"  title="Onboarding">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/MindLoop/RoomSettingsView.png" width="230" title="Room Settings">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/MindLoop/TopicSelectionView.png" width="230" title="Topic Selection">
 </p>
 
+## Miva - Watch OS App
+
+Miva is a Watch OS that helps you calm your mind and body, relieve muscle tension, and reduce stress and anxiety. Miva uses the Digital Crown to start and stop your chosen vibration pattern with one simple, intuitive interaction. Miva intelligently disables your screen while the vibration is active, to let you dive into your sensations and feel the moment.
+
+The app is being developed following the CBL process with my team of 1 developer, 2 designers, and 1 project manager. I was the only developer of the team and I also followed the design process.
+
+Try it on the AppStore: https://apps.apple.com/it/app/miva/id6473791031?l=en-GB
+
+The Framework used:
+
+[![Button](https://img.shields.io/badge/Swift%20UI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/HealthKit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/SDWebImageSwiftUI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+
 ## iPlanner - University project - Java App
 This project consists of the development of an information system to help the company manage its projects. The system consists of a relational database and a Java application with a graphical user interface (GUI) in Swing.
 
