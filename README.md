@@ -19,68 +19,23 @@ I am a passionate computer science student at the University of Naples Federico 
 
 # My projects
 
-## Five Dots - iOS App
-Five Dots is an iOS app, designed to support users become more self-aware by allowing them to record their daily thoughts and feelings, in the form of a card. Users can also view their entries through a calendar feature, which displays the card for each day.
+## Miva - Watch OS App
 
-The app is being developed following the CBL process with my team composed of 2 developers, 2 designers, and 1 Team Lead. I was one of the developers of the team and I also followed the design process. We started with a desk research about mental well-being and then with our app, we found a way to support people to become more self-aware.
+Miva is a Watch OS App that helps you calm your mind and body, relieve muscle tension, and reduce stress and anxiety. Miva uses the Digital Crown to start and stop your chosen vibration pattern with one simple, intuitive interaction. Miva intelligently disables your screen while the vibration is active, to let you dive into your sensations and feel the moment.
 
-Try it on TestFlight: https://testflight.apple.com/join/SmXWt19f
+The app is being developed with my team of 1 developer, 2 designers, and 1 project manager. I was the only developer of the team and I also followed the design process.
 
-The Framework used:
-
-[![Button](https://img.shields.io/badge/Swift%20UI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/UI%20Kit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/CoreData-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/CoreML-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/UserNotifications-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/PhotosUI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-
-
-<p align="center">
-<img src="Images/Five Dots/Main View.png" width="230"  title="Main View 5 Dots">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Five Dots/EmotionView.png" width="230" title="EmotionView">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Five Dots/Calendar View.png" width="230" title="CalendarView">
-</p>
-
-
-## Veggie's Attack - iOS App
-Veggie’s Attack is an iOS (and soon IPadOS app) endless space shooter in which a bald man must destroy all the veggies trying to kill him.
-
-The app is being developed with my team composed of 3 developers, and 1 designer. I was one of the developers of the team and I also followed the design process. We asked ourselves, how to make a fun game and so with our creativity,  we created our product.
-
-Try it on the AppStore: https://apps.apple.com/it/app/veggies-attack/id6446289776?l=en
-
-The Framework used:
-
-[![Button](https://img.shields.io/badge/UI%20Kit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/SpriteKit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/GameplayKit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/AVFoundation-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/GameKit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-
-<p align="center">
-<img src="Images/Veggie's Attack/Home Scene Veggie's Attack.png" width="300"  title="VEGGIE'S ATTACK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Veggie's Attack/Game Scene Veggie's Attack.png" width="300" title="Veggie's">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Veggie's Attack/Veggie's Attack.gif" width="300" title="Veggie's GIF">
-</p>
-
-
-## Neutone - iOS App
-
-Neutone is an app designed specifically for makeup artists and anyone looking to find the perfect foundation match for their skin undertone. This app uses a machine learning model to accurately detect the skin undertone. With Neutone, users can take a simple photo and receive as a result their skin undertone. This eliminates the guesswork and frustration often associated with finding the perfect shade of makeup, saving time and money in the process. Whether you’re a seasoned makeup artist or a beauty enthusiast, Neutone is the right tool for you.
-
-The app is being developed following the CBL process with my team composed of 3 developers, 1 designer, and 1 project manager. I was one of the developers of the team and I also followed the design process. At the beginning of the project, we knew 0 about the topic, which helped us have no bias. We started with a desk research to learn more about the topic and then interviewed and directly observed make-up artists while they were doing their job. From our research, we found out that their main struggle was to find the skin undertone of their client. So with our product, we want to support make-up enthusiasts and makeup artist to find their skin undertone with simple steps.
-
-Try it on the AppStore: https://apps.apple.com/it/app/neutone/id6445848829?l=en
+Try it on the AppStore: https://apps.apple.com/it/app/miva/id6473791031?l=en-GB
 
 The Framework used:
 
 [![Button](https://img.shields.io/badge/Swift%20UI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/UI%20Kit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/CreateML-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/CoreML-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/Vision-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/AVFoundation-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/HealthKit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/SDWebImageSwiftUI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 
-<p align="center">
-<img src="Images/Neutone/On Boarding.png" width="230"  title="On Boarding">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Neutone/Photo.png" width="230" title="Photo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Neutone/3 Undertone Identification.png" width="400" title="undertone Identification">
-</p>
+<div align="center">
+<img src="Images/Miva/Miva1.png" width="160" title="Miva1" style="margin: 0; padding: 0;"><img src="Images/Miva/Miva2.png" width="160" title="Miva2" style="margin: 0; padding: 0;"><img src="Images/Miva/Miva3.png" width="160" title="Miva3"><img src="Images/Miva/Miva4.png" width="160" title="Miva4"><img src="Images/Miva/Miva5.png" width="160" title="Miva5">
+</div>
 
 ## MindLoop - iOS and IPadOS App
 
@@ -111,23 +66,66 @@ The Framework used:
 <img src="Images/MindLoop/OnboardingView.png" width="230"  title="Onboarding">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/MindLoop/RoomSettingsView.png" width="230" title="Room Settings">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/MindLoop/TopicSelectionView.png" width="230" title="Topic Selection">
 </p>
 
-## Miva - Watch OS App
+## Neutone - iOS App
 
-Miva is a Watch OS App that helps you calm your mind and body, relieve muscle tension, and reduce stress and anxiety. Miva uses the Digital Crown to start and stop your chosen vibration pattern with one simple, intuitive interaction. Miva intelligently disables your screen while the vibration is active, to let you dive into your sensations and feel the moment.
+Neutone is an app designed specifically for makeup artists and anyone looking to find the perfect foundation match for their skin undertone. This app uses a machine learning model to accurately detect the skin undertone. With Neutone, users can take a simple photo and receive as a result their skin undertone. This eliminates the guesswork and frustration often associated with finding the perfect shade of makeup, saving time and money in the process. Whether you’re a seasoned makeup artist or a beauty enthusiast, Neutone is the right tool for you.
 
-The app is being developed with my team of 1 developer, 2 designers, and 1 project manager. I was the only developer of the team and I also followed the design process.
+The app is being developed following the CBL process with my team composed of 3 developers, 1 designer, and 1 project manager. I was one of the developers of the team and I also followed the design process. At the beginning of the project, we knew 0 about the topic, which helped us have no bias. We started with a desk research to learn more about the topic and then interviewed and directly observed make-up artists while they were doing their job. From our research, we found out that their main struggle was to find the skin undertone of their client. So with our product, we want to support make-up enthusiasts and makeup artist to find their skin undertone with simple steps.
 
-Try it on the AppStore: https://apps.apple.com/it/app/miva/id6473791031?l=en-GB
+Try it on the AppStore: https://apps.apple.com/it/app/neutone/id6445848829?l=en
 
 The Framework used:
 
 [![Button](https://img.shields.io/badge/Swift%20UI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/HealthKit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/SDWebImageSwiftUI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/UI%20Kit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/CreateML-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/CoreML-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/Vision-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/AVFoundation-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 
-<div align="center">
-<img src="Images/Miva/Miva1.png" width="160" title="Miva1" style="margin: 0; padding: 0;"><img src="Images/Miva/Miva2.png" width="160" title="Miva2" style="margin: 0; padding: 0;"><img src="Images/Miva/Miva3.png" width="160" title="Miva3"><img src="Images/Miva/Miva4.png" width="160" title="Miva4"><img src="Images/Miva/Miva5.png" width="160" title="Miva5">
-</div>
+<p align="center">
+<img src="Images/Neutone/On Boarding.png" width="230"  title="On Boarding">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Neutone/Photo.png" width="230" title="Photo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Neutone/3 Undertone Identification.png" width="400" title="undertone Identification">
+</p>
+
+## Veggie's Attack - iOS App
+Veggie’s Attack is an iOS (and soon IPadOS app) endless space shooter in which a bald man must destroy all the veggies trying to kill him.
+
+The app is being developed with my team composed of 3 developers, and 1 designer. I was one of the developers of the team and I also followed the design process. We asked ourselves, how to make a fun game and so with our creativity,  we created our product.
+
+Try it on the AppStore: https://apps.apple.com/it/app/veggies-attack/id6446289776?l=en
+
+The Framework used:
+
+[![Button](https://img.shields.io/badge/UI%20Kit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/SpriteKit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/GameplayKit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/AVFoundation-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/GameKit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+
+<p align="center">
+<img src="Images/Veggie's Attack/Home Scene Veggie's Attack.png" width="300"  title="VEGGIE'S ATTACK">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Veggie's Attack/Game Scene Veggie's Attack.png" width="300" title="Veggie's">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Veggie's Attack/Veggie's Attack.gif" width="300" title="Veggie's GIF">
+</p>
+
+## Five Dots - iOS App
+Five Dots is an iOS app, designed to support users become more self-aware by allowing them to record their daily thoughts and feelings, in the form of a card. Users can also view their entries through a calendar feature, which displays the card for each day.
+
+The app is being developed following the CBL process with my team composed of 2 developers, 2 designers, and 1 Team Lead. I was one of the developers of the team and I also followed the design process. We started with a desk research about mental well-being and then with our app, we found a way to support people to become more self-aware.
+
+Try it on TestFlight: https://testflight.apple.com/join/SmXWt19f
+
+The Framework used:
+
+[![Button](https://img.shields.io/badge/Swift%20UI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/UI%20Kit-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/CoreData-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/CoreML-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/UserNotifications-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/PhotosUI-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+
+
+<p align="center">
+<img src="Images/Five Dots/Main View.png" width="230"  title="Main View 5 Dots">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Five Dots/EmotionView.png" width="230" title="EmotionView">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Five Dots/Calendar View.png" width="230" title="CalendarView">
+</p>
 
 ## iPlanner - University project - Java App
 This project consists of the development of an information system to help the company manage its projects. The system consists of a relational database and a Java application with a graphical user interface (GUI) in Swing.
