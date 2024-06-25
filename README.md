@@ -127,28 +127,6 @@ The Framework used:
 <img src="Images/Five Dots/Main View.png" width="230"  title="Main View 5 Dots">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Five Dots/EmotionView.png" width="230" title="EmotionView">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Five Dots/Calendar View.png" width="230" title="CalendarView">
 </p>
 
-## iPlanner - University project - Java App
-This project consists of the development of an information system to help the company manage its projects. The system consists of a relational database and a Java application with a graphical user interface (GUI) in Swing.
-
-These are the requests from the stakeholders:
-- Keep track of participants in projects, identifying the role of each of them (for each project there will be only one project manager).
-- Associate each project with a type from the following: "Basic Research," "Industrial Research," "Experimental Research," "Experimental Development," and one or more areas such as Economics, Medicine, etc.
-- Hold meetings physically in meeting rooms or telematically on a video conferencing platform.
-- Keep track of the project and meeting attendance for the purpose of individual participant evaluation.
-- Select participants based on research criteria such as the participant's average salary and company rating, as well as the type of projects he or she took part in.
-- Assign each participant a list of skills.
-- Select participants based on their skills when creating a new project.
-- Record a participant's skills and, if not in the database, create a new one.
-For more information read the documentation.
-
-Technologies used:
-
-[![Button](https://img.shields.io/badge/Java-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/JDBC-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-[![Button](https://img.shields.io/badge/Java%20Swing-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
-
-GitHub Link: https://github.com/UniNaDev/OOBD2021-PlanningAziendale
-
 ## Ratatouille 23 - University project - Android Mobile and Java Desktop App
 
 Ratatouille23 is a system aimed at supporting the management and operation of restaurant businesses. The system consists of a performant and reliable application through which users can enjoy the system's functionality in an intuitive, quick and pleasant way.
@@ -173,6 +151,27 @@ Technologies used:
 [![Button](https://img.shields.io/badge/OpenFoodFacts-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 [![Button](https://img.shields.io/badge/JavaFX-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
 
+## iPlanner - University project - Java App
+This project consists of the development of an information system to help the company manage its projects. The system consists of a relational database and a Java application with a graphical user interface (GUI) in Swing.
+
+These are the requests from the stakeholders:
+- Keep track of participants in projects, identifying the role of each of them (for each project there will be only one project manager).
+- Associate each project with a type from the following: "Basic Research," "Industrial Research," "Experimental Research," "Experimental Development," and one or more areas such as Economics, Medicine, etc.
+- Hold meetings physically in meeting rooms or telematically on a video conferencing platform.
+- Keep track of the project and meeting attendance for the purpose of individual participant evaluation.
+- Select participants based on research criteria such as the participant's average salary and company rating, as well as the type of projects he or she took part in.
+- Assign each participant a list of skills.
+- Select participants based on their skills when creating a new project.
+- Record a participant's skills and, if not in the database, create a new one.
+For more information read the documentation.
+
+Technologies used:
+
+[![Button](https://img.shields.io/badge/Java-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/JDBC-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+[![Button](https://img.shields.io/badge/Java%20Swing-000000?style=flat&logoWidth=20&color=F2F2F7)](#)
+
+GitHub Link: https://github.com/UniNaDev/OOBD2021-PlanningAziendale
 
 
 <h3 align="left">Languages and Tools that I used:</h3>
