@@ -5,7 +5,7 @@ I am a passionate computer science student at the University of Naples Federico 
 
 - 📫 How to reach me **zurlomichele@icloud.com**
 
-- 📄 Know about my experiences [resume](https://europa.eu/europass/eportfolio/screen/share/eb40a425-0d6b-4bc3-b911-1faf946c7bc8?lang=it)
+- 📄 Know about my experiences [resume]([https://europa.eu/europass/eportfolio/screen/share/eb40a425-0d6b-4bc3-b911-1faf946c7bc8?lang=it](https://drive.google.com/file/d/1-asVq00zecUdAdgt9Ts4Jm_UOaNo2RhD/view?usp=share_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
